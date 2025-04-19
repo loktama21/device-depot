@@ -2,6 +2,9 @@
 
 An e‑commerce web application showcasing electronic products with filtering and cart functionality.
 
+## Links
+- **URL**: https://device-depot.vercel.app/
+
 ## Features
 - **Product Listing**: Browse a grid of Electronics products (image, name, price, description)
 - **Filtering & Search**:
@@ -26,6 +29,6 @@ An e‑commerce web application showcasing electronic products with filtering an
 - **Future Enhancements**:
   - Admin dashboard with S3 image upload and CRUD operations
   - User authentication and order history
-  - Payment gateway integration (Stripe/PayPal)
+  - Payment gateway integration 
   
 
