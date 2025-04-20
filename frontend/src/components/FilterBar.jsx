@@ -21,8 +21,10 @@ export default function FilterBar({ onFilterChange }) {
           value={category}
           onChange={e => setCategory(e.target.value)}
         >
-          <option value="">All Categories</option>
-          <option value="Electronics">Electronics</option>
+          <option value="">All</option>
+          <option value="laptop">Laptop</option>
+          <option value="sound system">Sound System</option>
+          <option value="others">Others</option>
         </select>
       </label>
 
